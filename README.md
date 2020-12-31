@@ -1,40 +1,12 @@
-## Welcome to GitHub Pages
+## **LEKHANA V**
+## Engineering Student, Electronics and Instrumentation department.
+## MS Ramaiah Institute of Technology
+### **COURSES & PROJECTS**
+1. Vocational Course on _Programming IoT with Raspberry Pi_ and a project _Pi Bot_ 
+![IoT course certificate](https://user-images.githubusercontent.com/76806858/103402705-93ec6f00-4b73-11eb-99c6-29b3bab24645.jpg)
 
-You can use the [editor on GitHub](https://github.com/lekhana10/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lekhana10/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-# **COURSES & PROJECTS**
-1. Vocational Course on _Programming IoT with Raspberry Pi_ and a project _Pi Bot_ ![certificate](C:\Users\vyash\Documents\Lekha\lekhana\certificates)
 2. Two Online Courses on Internet of Things 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
